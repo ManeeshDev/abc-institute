@@ -1,0 +1,58 @@
+C:\Exam\ICT2019L5S1L19 _ 981443225V\Question 2\ABC Institute\ABC Institute\bin\Debug\ABC Institute.exe.config
+C:\Exam\ICT2019L5S1L19 _ 981443225V\Question 2\ABC Institute\ABC Institute\bin\Debug\ABC_Student_System.mdf
+C:\Exam\ICT2019L5S1L19 _ 981443225V\Question 2\ABC Institute\ABC Institute\bin\Debug\ABC_Student_System_log.ldf
+C:\Exam\ICT2019L5S1L19 _ 981443225V\Question 2\ABC Institute\ABC Institute\bin\Debug\ABC Institute.exe
+C:\Exam\ICT2019L5S1L19 _ 981443225V\Question 2\ABC Institute\ABC Institute\bin\Debug\ABC Institute.pdb
+C:\Exam\ICT2019L5S1L19 _ 981443225V\Question 2\ABC Institute\ABC Institute\bin\Debug\ABC Institute.xml
+C:\Exam\ICT2019L5S1L19 _ 981443225V\Question 2\ABC Institute\ABC Institute\obj\Debug\ABC_Institute.Form1.resources
+C:\Exam\ICT2019L5S1L19 _ 981443225V\Question 2\ABC Institute\ABC Institute\obj\Debug\ABC_Institute.Resources.resources
+C:\Exam\ICT2019L5S1L19 _ 981443225V\Question 2\ABC Institute\ABC Institute\obj\Debug\ABC Institute.vbproj.GenerateResource.Cache
+C:\Exam\ICT2019L5S1L19 _ 981443225V\Question 2\ABC Institute\ABC Institute\obj\Debug\ABC Institute.exe
+C:\Exam\ICT2019L5S1L19 _ 981443225V\Question 2\ABC Institute\ABC Institute\obj\Debug\ABC Institute.xml
+C:\Exam\ICT2019L5S1L19 _ 981443225V\Question 2\ABC Institute\ABC Institute\obj\Debug\ABC Institute.pdb
+G:\Software Programming Practicals_ Exam\ICT2019L5S1L19 _ 981443225V\Question 2 -ICT2019L5S1L19 _ 981443225V\ABC Institute\ABC Institute\bin\Debug\ABC Institute.exe.config
+G:\Software Programming Practicals_ Exam\ICT2019L5S1L19 _ 981443225V\Question 2 -ICT2019L5S1L19 _ 981443225V\ABC Institute\ABC Institute\obj\Debug\ABC Institute.exe
+G:\Software Programming Practicals_ Exam\ICT2019L5S1L19 _ 981443225V\Question 2 -ICT2019L5S1L19 _ 981443225V\ABC Institute\ABC Institute\obj\Debug\ABC Institute.xml
+G:\Software Programming Practicals_ Exam\ICT2019L5S1L19 _ 981443225V\Question 2 -ICT2019L5S1L19 _ 981443225V\ABC Institute\ABC Institute\obj\Debug\ABC Institute.pdb
+G:\Software Programming Practicals_ Exam\ICT2019L5S1L19 _ 981443225V\Question 2 -ICT2019L5S1L19 _ 981443225V\ABC Institute\ABC Institute\bin\Debug\ABC_Student_System.mdf
+G:\Software Programming Practicals_ Exam\ICT2019L5S1L19 _ 981443225V\Question 2 -ICT2019L5S1L19 _ 981443225V\ABC Institute\ABC Institute\bin\Debug\ABC_Student_System_log.ldf
+G:\Software Programming Practicals_ Exam\ICT2019L5S1L19 _ 981443225V\Question 2 -ICT2019L5S1L19 _ 981443225V\ABC Institute\ABC Institute\bin\Debug\ABC Institute.exe
+G:\Software Programming Practicals_ Exam\ICT2019L5S1L19 _ 981443225V\Question 2 -ICT2019L5S1L19 _ 981443225V\ABC Institute\ABC Institute\bin\Debug\ABC Institute.pdb
+G:\Software Programming Practicals_ Exam\ICT2019L5S1L19 _ 981443225V\Question 2 -ICT2019L5S1L19 _ 981443225V\ABC Institute\ABC Institute\bin\Debug\ABC Institute.xml
+G:\Software Programming Practicals_ Exam\ICT2019L5S1L19 _ 981443225V\Question 2 -ICT2019L5S1L19 _ 981443225V\ABC Institute\ABC Institute\obj\Debug\ABC_Institute.Form1.resources
+G:\Software Programming Practicals_ Exam\ICT2019L5S1L19 _ 981443225V\Question 2 -ICT2019L5S1L19 _ 981443225V\ABC Institute\ABC Institute\obj\Debug\ABC_Institute.Resources.resources
+G:\Software Programming Practicals_ Exam\ICT2019L5S1L19 _ 981443225V\Question 2 -ICT2019L5S1L19 _ 981443225V\ABC Institute\ABC Institute\obj\Debug\ABC Institute.vbproj.GenerateResource.Cache
+D:\MP_ Works\ICT@Diploma\Software Programming Practicals_ Exam\ICT2019L5S1L19 _ 981443225V\Question 2 -ICT2019L5S1L19 _ 981443225V\ABC Institute\ABC Institute\bin\Debug\ABC Institute.exe.config
+D:\MP_ Works\ICT@Diploma\Software Programming Practicals_ Exam\ICT2019L5S1L19 _ 981443225V\Question 2 -ICT2019L5S1L19 _ 981443225V\ABC Institute\ABC Institute\obj\Debug\ABC Institute.exe
+D:\MP_ Works\ICT@Diploma\Software Programming Practicals_ Exam\ICT2019L5S1L19 _ 981443225V\Question 2 -ICT2019L5S1L19 _ 981443225V\ABC Institute\ABC Institute\obj\Debug\ABC Institute.xml
+D:\MP_ Works\ICT@Diploma\Software Programming Practicals_ Exam\ICT2019L5S1L19 _ 981443225V\Question 2 -ICT2019L5S1L19 _ 981443225V\ABC Institute\ABC Institute\obj\Debug\ABC Institute.pdb
+D:\MP_ Works\My Dev Projects\Vb .net\ABC Institute\ABC Institute\bin\Debug\ABC_Student_System.mdf
+D:\MP_ Works\My Dev Projects\Vb .net\ABC Institute\ABC Institute\bin\Debug\ABC_Student_System_log.ldf
+D:\MP_ Works\My Dev Projects\Vb .net\ABC Institute\ABC Institute\bin\Debug\ABC Institute.exe.config
+D:\MP_ Works\My Dev Projects\Vb .net\ABC Institute\ABC Institute\bin\Debug\ABC Institute.exe
+D:\MP_ Works\My Dev Projects\Vb .net\ABC Institute\ABC Institute\bin\Debug\ABC Institute.pdb
+D:\MP_ Works\My Dev Projects\Vb .net\ABC Institute\ABC Institute\bin\Debug\ABC Institute.xml
+D:\MP_ Works\My Dev Projects\Vb .net\ABC Institute\ABC Institute\obj\Debug\ABC Institute.vbproj.AssemblyReference.cache
+D:\MP_ Works\My Dev Projects\Vb .net\ABC Institute\ABC Institute\obj\Debug\ABC Institute.vbproj.SuggestedBindingRedirects.cache
+D:\MP_ Works\My Dev Projects\Vb .net\ABC Institute\ABC Institute\obj\Debug\ABC_Institute.Form1.resources
+D:\MP_ Works\My Dev Projects\Vb .net\ABC Institute\ABC Institute\obj\Debug\ABC_Institute.Resources.resources
+D:\MP_ Works\My Dev Projects\Vb .net\ABC Institute\ABC Institute\obj\Debug\ABC Institute.vbproj.GenerateResource.cache
+D:\MP_ Works\My Dev Projects\Vb .net\ABC Institute\ABC Institute\obj\Debug\ABC Institute.vbproj.CoreCompileInputs.cache
+D:\MP_ Works\My Dev Projects\Vb .net\ABC Institute\ABC Institute\obj\Debug\ABC Institute.exe
+D:\MP_ Works\My Dev Projects\Vb .net\ABC Institute\ABC Institute\obj\Debug\ABC Institute.xml
+D:\MP_ Works\My Dev Projects\Vb .net\ABC Institute\ABC Institute\obj\Debug\ABC Institute.pdb
+D:\MP_ Works\My Dev Projects\Vb .net\abc-institute\ABC Institute\bin\Debug\ABC_Student_System.mdf
+D:\MP_ Works\My Dev Projects\Vb .net\abc-institute\ABC Institute\bin\Debug\ABC_Student_System_log.ldf
+D:\MP_ Works\My Dev Projects\Vb .net\abc-institute\ABC Institute\bin\Debug\ABC Institute.exe.config
+D:\MP_ Works\My Dev Projects\Vb .net\abc-institute\ABC Institute\bin\Debug\ABC Institute.exe
+D:\MP_ Works\My Dev Projects\Vb .net\abc-institute\ABC Institute\bin\Debug\ABC Institute.pdb
+D:\MP_ Works\My Dev Projects\Vb .net\abc-institute\ABC Institute\bin\Debug\ABC Institute.xml
+D:\MP_ Works\My Dev Projects\Vb .net\abc-institute\ABC Institute\obj\Debug\ABC Institute.vbproj.AssemblyReference.cache
+D:\MP_ Works\My Dev Projects\Vb .net\abc-institute\ABC Institute\obj\Debug\ABC Institute.vbproj.SuggestedBindingRedirects.cache
+D:\MP_ Works\My Dev Projects\Vb .net\abc-institute\ABC Institute\obj\Debug\ABC_Institute.Form1.resources
+D:\MP_ Works\My Dev Projects\Vb .net\abc-institute\ABC Institute\obj\Debug\ABC_Institute.Resources.resources
+D:\MP_ Works\My Dev Projects\Vb .net\abc-institute\ABC Institute\obj\Debug\ABC Institute.vbproj.GenerateResource.cache
+D:\MP_ Works\My Dev Projects\Vb .net\abc-institute\ABC Institute\obj\Debug\ABC Institute.vbproj.CoreCompileInputs.cache
+D:\MP_ Works\My Dev Projects\Vb .net\abc-institute\ABC Institute\obj\Debug\ABC Institute.exe
+D:\MP_ Works\My Dev Projects\Vb .net\abc-institute\ABC Institute\obj\Debug\ABC Institute.xml
+D:\MP_ Works\My Dev Projects\Vb .net\abc-institute\ABC Institute\obj\Debug\ABC Institute.pdb
