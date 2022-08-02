@@ -1,5 +1,5 @@
 
-## 👨‍💻 This is a Student Management Small Desktop Application Form
+## 👨‍💻 This is a Student Management - Small Desktop Application Form
 
 ### 📺 Demo Images
 
